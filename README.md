@@ -1,1 +1,2 @@
-# Plantilla-30
+# Clase-31.Valeria
+Cambios de sprites 
